@@ -1,0 +1,51 @@
+.wrapper {
+  width: 400px;
+  padding: 40px;
+  margin: 100px auto;
+  background-color: #fff;
+}
+
+body {
+  background-image: url(http://www.history.com/s3static/video-thumbnails/AETN-History_VMS/21/205/tdih-may24-HD.jpg);
+  background-size: cover;
+  font-family: 'Arial', sans-serif;
+}
+
+p{
+  font-size: 12px;
+  font-weight: lighter;
+}
+
+h1,h2,h3{
+  color: #263555;
+  font-family: 'Pathway Gothic One';
+}
+
+h1 {
+  font-size: 25px;
+}
+
+.content {
+  border-bottom: 1px solid #eee;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.column1{
+  width: 45%;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 14px;
+  vertical-align: top;
+}
+.column2{
+  width: 45%;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 14px;
+  vertical-align: top;
+  text-align: right;
+}
